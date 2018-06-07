@@ -4,7 +4,7 @@
 
 
 
-local FILELIST_URL = "https://raw.githubusercontent.com/jackyloz/AeroGameFramework/master/filelist.json"
+local FILELIST_URL = "https://raw.githubusercontent.com/jackyloz/AeroGameFramework/patch-1/filelist.json"
 
 print("Installing AeroGameFramework...")
 
