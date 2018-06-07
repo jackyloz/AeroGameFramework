@@ -1,5 +1,5 @@
 {
-    "url": "https://raw.githubusercontent.com/Sleitnick/AeroGameFramework/master/src/", 
+    "url": "https://raw.githubusercontent.com/jackyloz/AeroGameFramework/patch-1/src/", 
     "paths": [
         "ServerScriptService/Aero/AeroServer.script.lua", 
         "ReplicatedStorage/Aero/Shared/Date.modulescript.lua", 
